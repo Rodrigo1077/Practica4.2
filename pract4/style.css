@@ -1,0 +1,54 @@
+h1#titulo {
+color: #642406;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.texto1 {
+   color: saddlebrown;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+}
+
+p.texto2 {
+   color: saddlebrown;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+   position: relative;
+   left: 15cm;
+}
+
+p.texto3 {
+   color: saddlebrown;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+   position: relative;
+   left: 30cm;
+}
+
+p.textocarta {
+   color: rgb(153, 66, 4);
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p.textocartaig {
+   color: rgb(153, 66, 4);
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+right: 6px;
+}
+
+div.parrafo {
+   color: rgb(153, 66, 4);
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+body {
+   background-color: wheat;
+}
